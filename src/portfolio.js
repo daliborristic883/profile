@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Start program development since 2010, have been software developer, senior developer and lead developer. I love my work as a mobile developer, and I welcome the opportunity to bring my enthusiasm and skills to your next project! My emphasis is on developing data-driven applications for small businesses largely or internal use, however I have also developed and published a number of different types of apps. As a business owner, I am familiar with working on deadline, and I bring professionalism, communication, punctuality, and great attention to detail to your projects. I have a practical understanding of needs from the client side, which I believe enhances my ability to be an asset and contributor to your project."),
   resumeLink:
-    "https://drive.google.com/file/d/1H_uJq9SRsvxwXG3xxdrY1x_8xTxsh3bb/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1pD5vVxZo50LeJELvpd-7QzM9QsMjO0gv/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
